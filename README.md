@@ -19,6 +19,3 @@ This Python project implements a User Flow Chatbot using the ChainLit library, O
 4. **Run the User Flow Chatbot:**
    ```bash
    chainlit run user-flow-chatbot.py
-
-
-
