@@ -16,7 +16,7 @@ This Python project implements a User Flow Chatbot using the ChainLit library, O
    ```bash
    export OPENAI_API_KEY='your-api-key'
    
-4. **Add your api key:**
+4. **Add your API key:**
    ```bash
    os.environ['OPENAI_API_KEY'] = YOUR API KEY
    
