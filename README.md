@@ -11,15 +11,11 @@ This Python project implements a User Flow Chatbot using the ChainLit library, O
 2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
-
-3. **Set up your OpenAI API key:**
-   ```bash
-   export OPENAI_API_KEY='your-api-key'
    
-4. **Add your API key:**
+3. **Add your API key:**
    ```bash
    os.environ['OPENAI_API_KEY'] = YOUR API KEY
    
-5. **Run the User Flow Chatbot:**
+4. **Run the User Flow Chatbot:**
    ```bash
    chainlit run user-flow-chatbot.py
