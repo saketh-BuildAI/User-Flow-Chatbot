@@ -18,7 +18,7 @@ This Python project implements a User Flow Chatbot using the ChainLit library, O
    
 4. **Add your api key:**
    ```bash
-   chainlit run user-flow-chatbot.py
+   os.environ['OPENAI_API_KEY'] = YOUR API KEY
    
 5. **Run the User Flow Chatbot:**
    ```bash
