@@ -6,7 +6,7 @@ from chainlit.input_widget import Select, Switch, Slider
 from nemoguardrails import LLMRails, RailsConfig
 import os
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = ''
 
 colang_content = """
 #define niceties
